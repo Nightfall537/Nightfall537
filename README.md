@@ -1,5 +1,5 @@
 # Hi 👋 My name is Paa Kwesi Gyan Turkson
-## Data Scientist and ML Engineer
+## Data Scientist 
 
 ### I am an AI enthusiast, super interested in applying AI and tech knowledge to build projects to solve problems. I love to create or build, research and curios about how technology is made and operates 
 
